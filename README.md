@@ -1,2 +1,1 @@
-# tin dog-responsive website 
- tinder for dogs 
+TinDog Starting Files
